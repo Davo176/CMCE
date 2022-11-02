@@ -4,6 +4,8 @@ In there you will find 6 .sh files which can make and run all executables for ea
 You will want to ensure you have cloned and built XKCP, located here:
 https://github.com/XKCP/XKCP
 
+Again for interoperability testing, you will have to manually change the code to switch between csharp and java.
+
 Additional_Implementations/kem/mceliece348864/avx/KATNUM: number of KATs for this implementation
 Additional_Implementations/kem/mceliece348864/avx/Makefile: Makefile for KAT generator
 Additional_Implementations/kem/mceliece348864/avx/api.h: sizes for this implementation
